@@ -234,6 +234,13 @@
   </url>
   
   <url>
+    <loc>https://maxormin.github.io/tags/Numpy/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://maxormin.github.io/tags/Machine-Learning/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -262,7 +269,7 @@
   </url>
   
   <url>
-    <loc>https://maxormin.github.io/tags/Numpy/</loc>
+    <loc>https://maxormin.github.io/tags/mysql/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -270,13 +277,6 @@
   
   <url>
     <loc>https://maxormin.github.io/tags/QA/</loc>
-    <lastmod>2022-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://maxormin.github.io/tags/mysql/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -292,28 +292,14 @@
   </url>
   
   <url>
+    <loc>https://maxormin.github.io/categories/Numpy/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://maxormin.github.io/categories/Machine-Learning/</loc>
-    <lastmod>2022-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://maxormin.github.io/categories/Machine-Learning/Regression/</loc>
-    <lastmod>2022-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://maxormin.github.io/categories/Machine-Learning/Classifier/</loc>
-    <lastmod>2022-02-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://maxormin.github.io/categories/QA/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -327,7 +313,21 @@
   </url>
   
   <url>
-    <loc>https://maxormin.github.io/categories/Numpy/</loc>
+    <loc>https://maxormin.github.io/categories/Machine-Learning/Classifier/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxormin.github.io/categories/Machine-Learning/Regression/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxormin.github.io/categories/QA/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
