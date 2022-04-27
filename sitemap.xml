@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://maxormin.github.io/archives/0.html</loc>
-    
-    <lastmod>2022-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://maxormin.github.io/about/index.html</loc>
     
     <lastmod>2022-04-27</lastmod>
@@ -317,20 +308,6 @@
 
   
   <url>
-    <loc>https://maxormin.github.io/tags/Leetcode/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://maxormin.github.io/tags/QA/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://maxormin.github.io/tags/Machine-Learning/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -339,13 +316,6 @@
   
   <url>
     <loc>https://maxormin.github.io/tags/Classifier/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://maxormin.github.io/tags/mysql/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -366,7 +336,28 @@
   </url>
   
   <url>
+    <loc>https://maxormin.github.io/tags/QA/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://maxormin.github.io/tags/Numpy/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxormin.github.io/tags/mysql/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxormin.github.io/tags/Leetcode/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -375,28 +366,7 @@
 
   
   <url>
-    <loc>https://maxormin.github.io/categories/Leetcode/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://maxormin.github.io/categories/QA/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://maxormin.github.io/categories/Machine-Learning/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://maxormin.github.io/categories/mysql/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -424,7 +394,28 @@
   </url>
   
   <url>
+    <loc>https://maxormin.github.io/categories/QA/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://maxormin.github.io/categories/Numpy/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxormin.github.io/categories/mysql/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://maxormin.github.io/categories/Leetcode/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
