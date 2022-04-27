@@ -336,14 +336,14 @@
   </url>
   
   <url>
-    <loc>https://maxormin.github.io/tags/QA/</loc>
+    <loc>https://maxormin.github.io/tags/%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://maxormin.github.io/tags/%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87/</loc>
+    <loc>https://maxormin.github.io/tags/QA/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -394,14 +394,14 @@
   </url>
   
   <url>
-    <loc>https://maxormin.github.io/categories/QA/</loc>
+    <loc>https://maxormin.github.io/categories/%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://maxormin.github.io/categories/%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87/</loc>
+    <loc>https://maxormin.github.io/categories/QA/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -415,14 +415,14 @@
   </url>
   
   <url>
-    <loc>https://maxormin.github.io/categories/%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87/Classifier/</loc>
+    <loc>https://maxormin.github.io/categories/Numpy/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://maxormin.github.io/categories/Numpy/</loc>
+    <loc>https://maxormin.github.io/categories/%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87/Classifier/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
