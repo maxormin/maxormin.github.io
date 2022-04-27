@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title></title>
+      <link href="/archives/0.html"/>
+      <url>/archives/0.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/archives/0.html"/>
+      <url>/archives/0.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="git命令">git命令</h2><table><thead><tr><th>命令</th><th>作用</th></tr></thead><tbody><tr><td>git config --global <a href="http://user.name">user.name</a> 用户名</td><td>设置用户签名</td></tr><tr><td>git config --global user.email 邮箱</td><td>设置用户签名</td></tr><tr><td>git init</td><td>初始化本地库</td></tr><tr><td>git status</td><td>查看本地库状态</td></tr><tr><td>git add 文件</td><td>将文件加入暂存区</td></tr><tr><td>git rm --cached文件</td><td>将文件从暂存区移除</td></tr><tr><td>git commit -m 备注 文件</td><td>将暂存区的文件提交到本地库</td></tr><tr><td>git reflog(git log)</td><td>查看版本信息</td></tr><tr><td>git reset --bard 版本号</td><td>版本穿梭</td></tr></tbody></table><p>设置用户签名只是为了用于区分，与之后登录github没有任何关系</p><p>git add 文件(未被追踪的文件)</p><p>文件被修改后需先add加入暂存区，在通过commit提交到本地库形成新的版本。</p><h2 id="git分支">git分支</h2><p>分支可以理解为副本，一个分支就是一个单独的副本</p><table><thead><tr><th>命令</th><th>作用</th></tr></thead><tbody><tr><td>git branch 分支名</td><td>创建分支</td></tr><tr><td>git branch -v</td><td>查看分支</td></tr><tr><td>git checkout 分支名</td><td>切换分支</td></tr><tr><td>git merge 分支名</td><td>把指定的分支合并到当前分支上</td></tr><tr><td>git branch -d 分支名</td><td>删除分支</td></tr></tbody></table><p>正常合并通过merge命令即可，但产生冲突时，则不能简单的通过该方法进行合并，当后面状态出现merging时，表明产生冲突。冲突产生的原语为合并分支时，两个分支在同一个文件的同一个位置有两套完全不同的修改，git无法决定使用哪一个，必须人为决定新代码内容。</p><p>修改方式：人为进入文件进行修改，修改完成后进行add commit，commit不能带文件名。</p><h2 id="git团队协作">git团队协作</h2><p>团队内协作：push-&gt;clone-&gt;push-&gt;pull</p><p>跨团队协作：fork(在我的远程库中创建一个分支)-&gt;clone-&gt;push-&gt;pull request-&gt;审核-&gt;merge-&gt;pull</p><h2 id="github操作">github操作</h2><table><thead><tr><th>命令</th><th>作用</th></tr></thead><tbody><tr><td>git remote -v</td><td>查看别名</td></tr><tr><td>git remote add 别名 远程地址</td><td>创建别名</td></tr><tr><td>git push 别名 分支</td><td>推送本地分支到远程库</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>机器学习-提升</title>
       <link href="/archives/beb814b.html"/>
       <url>/archives/beb814b.html</url>
