@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://maxormin.github.io/sitemap.xml
+Sitemap: https://maxormin.github.io/baidusitemap.xml
